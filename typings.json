@@ -1,1 +1,5 @@
-{}
+{
+    "name": "HTMLDialogElement",
+    "main": "HTMLDialogElement.d.ts",
+    "version": "1.0.0"
+}
