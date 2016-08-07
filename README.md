@@ -9,3 +9,23 @@ MDN: https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement
 ## Installation
 
     typings install github:qsctr/HTMLDialogElement-TypeScript#[latest commit] --global
+
+## Usage
+
+tsconfig.json
+
+    {
+        "files": [
+            "typings/index.d.ts"
+        ]
+    }
+    
+or
+
+    /// <reference path="path/to/typings/index.d.ts" />
+    
+then
+
+    let dialog = document.querySelector('dialog') as HTMLDialogElement;
+    dialog.show();
+    // etc
