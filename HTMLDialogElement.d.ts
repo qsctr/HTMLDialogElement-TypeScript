@@ -2,7 +2,7 @@
  * The DOM interface for the <dialog> element
  */
 interface HTMLDialogElement extends HTMLElement {
-// test
+
     /**
      * Reflects the open HTML attribute, indicating that the dialog is
      * available for interaction.
