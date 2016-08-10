@@ -8,7 +8,7 @@ MDN: https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement
 
 ## Installation
 
-    typings install github:qsctr/HTMLDialogElement-TypeScript#[latest commit] --global --save
+    typings install github:qsctr/htmldialogelement-typescript#[latest commit] --global --save
 
 ## Usage
 
