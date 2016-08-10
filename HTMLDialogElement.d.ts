@@ -1,4 +1,4 @@
-declare class HTMLDialogElement extends HTMLElement {
+interface HTMLDialogElement extends HTMLElement {
 
     /**
      * Reflects the open HTML attribute, indicating that the dialog is
