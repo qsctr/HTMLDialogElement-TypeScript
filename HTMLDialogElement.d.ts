@@ -1,3 +1,6 @@
+/**
+ * The DOM interface for the <dialog> element
+ */
 interface HTMLDialogElement extends HTMLElement {
 
     /**
