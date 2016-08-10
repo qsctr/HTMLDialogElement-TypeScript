@@ -1,4 +1,4 @@
-# HTMLDialogElement-TypeScript
+# htmldialogelement-typescript
 
 TypeScript type definition for HTMLDialogElement
 
